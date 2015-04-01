@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/kaelyn/Workspace/portal/app/config/routing_dev.yml
